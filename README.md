@@ -1,4 +1,4 @@
-# 👋 Abhishek Siriki
+# Hi 👋, I'm Abhishek Siriki
 
 **Data Scientist | ML Engineer | Healthcare Analytics**
 
