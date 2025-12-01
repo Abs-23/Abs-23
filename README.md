@@ -10,7 +10,7 @@
 
 ---
 
-## About
+## 🔎 About Me
 
 Data Scientist with a Master's in Data Science focused on building interpretable ML models and solving real-world healthcare challenges. Strong foundation in data engineering, analytics automation, and cloud-based ETL pipelines. I'm passionate about exploratory data analysis, statistical reasoning, and making ML models transparent and explainable to stakeholders.
 
