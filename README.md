@@ -56,18 +56,6 @@ Data Scientist with a Master's in Data Science focused on building interpretable
 - **Tech**: PyTorch, Signal Processing, Staged Classifiers
 - **Learning**: Multi-stage ML architecture design
 
-### 📊 SQL Pipeline Optimization
-- Optimized SQL queries processing 5M+ records
-- **Results**: ~40% reduction in reporting cycles
-- **Tech**: SQL (indexing, partitioning, query tuning)
-- **Impact**: Faster data refresh cycles, improved reporting SLAs
-
-### 📈 Analytics Automation Framework
-- Automated KPI computation, dataset refreshes, and ad-hoc extracts
-- **Results**: 20+ hours/month of manual work eliminated
-- **Tech**: Python, SQL, Bash, AWS
-- **Scope**: 40+ Power BI dashboards powered by framework
-
 ### 🎯 Healthcare Readmission Risk Prediction
 - Predictive model for patient readmission probability
 - **Tech**: Python, Scikit-Learn, Power BI
