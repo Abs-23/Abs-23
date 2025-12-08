@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abhishek Siriki
 
-**Data Scientist | ML Engineer | Healthcare Analytics**
+**Data Scientist | ML Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-siriki/)
 ![](https://img.shields.io/badge/Python-Expert-blue)
