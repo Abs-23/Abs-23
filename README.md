@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abhishek Siriki
 
-**Data Scientist | ML Engineer
+**Data Engineer · Analytics Engineer with ML & AI Edge**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-siriki/)
 ![](https://img.shields.io/badge/Python-Expert-blue)
@@ -12,23 +12,31 @@
 
 ## 🔎 About Me
 
-Data Scientist with a Master's in Data Science focused on building interpretable ML models and solving real-world healthcare challenges. Strong foundation in data engineering, analytics automation, and cloud-based ETL pipelines. I'm passionate about exploratory data analysis, statistical reasoning, and making ML models transparent and explainable to stakeholders.
+## 🔎 About Me
 
-**Currently:** Building ML solutions for healthcare analytics  
-**Location:** Greater Boston
+Data Engineer with a Master’s in Data Science who enjoys turning messy, real‑world data into reliable, analytics‑ready and ML‑ready pipelines. I have professional experience as a Data Engineer at Accenture and hands‑on project work in finance and healthcare using tools like dbt, DuckDB, Databricks, PySpark, SQL, Python, and Power BI.
+
+I care about clear data models, built‑in quality checks, and making it easy for analysts, data scientists, and AI systems to trust the data they consume.
+
+**Currently:**
+- Building end‑to‑end ELT pipelines with dbt, DuckDB, and Databricks.
+- Designing feature and reporting layers that power dashboards and ML models.
+- Exploring AI agents and modern AI workflows after completing Google’s 5‑Day Agentic AI course.
+
+Open to roles across domains (finance, healthcare, public sector, and beyond)
 
 ---
 
 ## 💻 Tech Stack
 
 | Category | Technologies |
-|----------|---------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
-| **ML & Data** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6B35?style=flat&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-Explainability-blue?style=flat) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) |
-| **Cloud & Big Data** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white) |
-| **Visualization** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) |
-| **AI & LLMs** | ![Generative AI](https://img.shields.io/badge/Generative%20AI-purple?style=flat) ![LLMs](https://img.shields.io/badge/LLMs-blueviolet?style=flat) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+|----------|-------------|
+| **Core Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
+| **Data Engineering** | ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-fff000?style=flat&logo=duckdb&logoColor=000) ![Databricks](https://img.shields.io/badge/Databricks-EF3B2D?style=flat&logo=databricks&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white) |
+| **ML & Data** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6B35?style=flat&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-Explainability-blue?style=flat) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) |
+| **Visualization & BI** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) |
+| **AI & Agents** | ![Generative AI](https://img.shields.io/badge/Generative%20AI-purple?style=flat) ![LLMs](https://img.shields.io/badge/LLMs-blueviolet?style=flat) ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Google%205--Day%20Course-4285F4?style=flat) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
+| **Tools & Platforms** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
 
 ---
