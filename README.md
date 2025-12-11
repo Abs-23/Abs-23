@@ -1,16 +1,10 @@
 # Hi 👋, I'm Abhishek Siriki
 
-**Data Engineer · Analytics Engineer with ML & AI Edge**
+**Data Engineer · Analytics Engineer | M.S. in Data Science**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-siriki/)
-![](https://img.shields.io/badge/Python-Expert-blue)
-![](https://img.shields.io/badge/SQL-Expert-blue)
-![](https://img.shields.io/badge/AWS-Intermediate-brightgreen)
-![](https://img.shields.io/badge/ML-Advanced-brightgreen)
 
 ---
-
-## 🔎 About Me
 
 ## 🔎 About Me
 
@@ -18,12 +12,14 @@ Data Engineer with a Master’s in Data Science who enjoys turning messy, real�
 
 I care about clear data models, built‑in quality checks, and making it easy for analysts, data scientists, and AI systems to trust the data they consume.
 
-**Currently:**
-- Building end‑to‑end ELT pipelines with dbt, DuckDB, and Databricks.
-- Designing feature and reporting layers that power dashboards and ML models.
+I focus on:
+- Building end‑to‑end ELT pipelines that turn raw data into trusted tables for analytics and ML.
+- Designing data models and Power BI dashboards that answer real business questions.
+- Strengthening data quality with validation checks, anomaly detection, and clear data contracts..
+- Supporting ML and AI use cases with clean feature tables, MLflow, and explainable models.
 - Exploring AI agents and modern AI workflows after completing Google’s 5‑Day Agentic AI course.
 
-Open to roles across domains (finance, healthcare, public sector, and beyond)
+Open to roles across domains (finance, healthcare, public sector, and beyond).
 
 ---
 
@@ -38,85 +34,68 @@ Open to roles across domains (finance, healthcare, public sector, and beyond)
 | **AI & Agents** | ![Generative AI](https://img.shields.io/badge/Generative%20AI-purple?style=flat) ![LLMs](https://img.shields.io/badge/LLMs-blueviolet?style=flat) ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Google%205--Day%20Course-4285F4?style=flat) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
 | **Tools & Platforms** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
+---
+
+## 🚀 Featured Data Engineering & Analytics Projects
+
+### 💰 SaaS Finance Analytics – dbt, DuckDB, Python, Power BI
+End-to-end analytics stack for subscription revenue.
+
+- Modeled subscriptions, MRR, and churn using dbt on DuckDB to create a clean semantic layer for finance and RevOps.
+- Built a Python ELT flow from raw CSVs → DuckDB → Power BI, turning manual refreshes into a repeatable pipeline.
+- Designed an executive dashboard so stakeholders can explore MRR, churn, and plan performance without touching SQL.
 
 ---
 
-## 🎯 Core Competencies
+### 🚗 Traffic & Toll Revenue Forecasting – Databricks, PySpark, SQL, MLflow, Power BI
+Lakehouse + forecasting pipeline for transportation planning.
 
-- **ML/AI**: Regression, Classification, Time-Series, XGBoost, Neural Networks, SHAP Explainability
-- **Data Engineering**: SQL Optimization, ETL/ELT Design, Data Pipelines, Cloud Integration
-- **Analytics**: Statistical Testing, A/B Testing, Exploratory Analysis, Business Intelligence
-- **Healthcare**: Risk Prediction, Clinical Analytics, Interpretable Models
-
----
-
-## 🚀 Featured Projects
-
-### 🏥 Heart Disease Risk Predictor
-- ML-based risk prediction model with SHAP explainability
-- **Results**: ROC-AUC ≈ 0.83 | Streamlit deployment
-- **Tech**: Python, Scikit-Learn, SHAP, Streamlit
-- **Impact**: Interpretable predictions for clinical decision support
-
-### 🧠 EMG Neuromotor Interface
-- Staged classification pipeline for biosignal processing
-- **Results**: ≈0.996 accuracy on synthetic data
-- **Tech**: PyTorch, Signal Processing, Staged Classifiers
-- **Learning**: Multi-stage ML architecture design
-
-### 🎯 Healthcare Readmission Risk Prediction
-- Predictive model for patient readmission probability
-- **Tech**: Python, Scikit-Learn, Power BI
-- **Domain**: Healthcare Analytics
+- Built a medallion architecture (bronze/silver/gold) in Databricks to process six years of traffic and weather data.
+- Engineered features and trained forecasting models tracked with MLflow, improving error over baseline.
+- Exposed results in Power BI to compare toll scenarios and visualize revenue impact under different policies.
 
 ---
 
-## 🛠️ Professional Experience
+### 🛡️ Insurance Claims Lakehouse – Databricks, SQL, Python, AWS Kinesis, S3
+Streaming + batch lakehouse for claims and telematics.
 
-### Data Engineering Associate @ Accenture
-**Sep 2021 - Jul 2023** | Hyderabad, India (Hybrid)
-
-- Engineered SQL pipelines processing 5M+ records with query optimization (~40% improvement)
-- Designed AWS ETL/ELT workflows with data quality checks and automated monitoring
-- Automated analytics workflows saving 20+ hours/month using Python, SQL, Bash
-- Built data models and analytics layers supporting 40+ Power BI dashboards
-- Completed Spark/PySpark certification: "Designing and Implementing Big Data Analytics Solutions."
-- Collaborated with cross-functional teams on data contracts and pipeline standardization
-
-**Key Metrics:** 40+ dashboards | 5M+ records processed | 20+ hrs/month automated
+- Ingested streaming telematics from Kinesis and batch claims/policy data into a unified Delta Lake.
+- Normalized and deduplicated entities, then built reusable feature tables for severity and risk modeling.
+- Prepared ML-ready tables and integrated predictions back into the pipeline for triage and anomaly detection.
 
 ---
+
+## 📚 More Projects (Healthcare & ML)
+
+
+### 🏥 Healthcare Readmission Risk – Python, Scikit-Learn, Power BI
+ML model plus reporting for hospital readmission risk.
+
+- Trained a model to estimate readmission probability and used explainability tools to surface key drivers.
+- Built visuals in Power BI so clinical and operations teams can understand high-risk cohorts and trends.
+
+### 🧠 EMG Neuromotor Interface – PyTorch, Signal Processing
+- Built a staged classification pipeline for EMG biosignals.
+- Achieved high accuracy on synthetic data and explored multi-stage model design.
+
+### ❤️ Heart Disease Risk Predictor – Scikit-Learn, SHAP, Streamlit
+- Developed a classification model to estimate heart disease risk.
+- Used SHAP for explainability and deployed an interactive Streamlit app.
+
+### 🩺 Other Healthcare Analytics Work
+- Exploratory analysis and predictive modeling on clinical and claims-style datasets.
+- Focus on interpretable models and stakeholder-friendly reporting.
+
 
 ## 🎓 Education
 
 ### Master's in Data Science
 **University of Massachusetts Dartmouth** | 2023 - 2025 | GPA: 3.6
 
-- **Focus**: Applied ML for Healthcare, Time-Series & Streaming Analytics
-- **Coursework**: Advanced ML, AI, HPC, Advanced Data Mining, Advanced Statistics
-- **Activities**: Badminton Club (Tournament Champion), Valorant Esports Roster
+- **Focus**: Applied ML for Healthcare, Time-Series & Streaming Analytics.
+- **Coursework**: Advanced ML, AI, HPC, Advanced Data Mining, Advanced Statistics, Small World Networks.
+- **Activities**: Badminton Club (Tournament Champion), Valorant Esports Roster.
 
-### B.Tech in Computer Science
-**JNTUK** | 2017 - 2021 | GPA: 3.08
-
----
-
-## 📜 Certifications
-
-- ✅ Designing and Implementing Big Data Analytics Solutions (Accenture, Mar 2022)
-
----
-
-## 📊 What I Built
-
-I focus on:
-- **Interpretable ML**: Making model predictions understandable to non-technical stakeholders
-- **Healthcare Analytics**: Building models that support clinical decision-making
-- **Data Pipelines**: Designing robust, scalable ETL workflows
-- **Explainable AI**: Using SHAP, feature importance, and interpretability techniques
-- **Automated Analytics**: Building systems that reduce manual reporting work
-
----
 
 ## 🔗 Connect
 
