@@ -8,7 +8,7 @@
 
 ## 🔎 About Me
 
-Data Engineer with a Master’s in Data Science who enjoys turning messy, real‑world data into reliable, analytics‑ready and ML‑ready pipelines. I have professional experience as a Data Engineer at Accenture and hands‑on project work in finance and healthcare using tools like dbt, DuckDB, Databricks, PySpark, SQL, Python, and Power BI.
+Data Engineer with a Master's in Data Science, passionate about turning messy, real-world data into reliable, analytics-ready and ML-ready pipelines. I have professional experience as a Data Engineer at Accenture, where I built ELT workflows that transformed operational and financial data into trusted datasets for business decision-making. My hands-on project work spans finance, healthcare, and traffic analytics, using tools like dbt, DuckDB, Databricks, PySpark, SQL, Python, and Power BI. I focus on building scalable data systems, automating workflows, and making data accessible and actionable for analysts, data scientists, and stakeholders. Always learning, always building.
 
 I care about clear data models, built‑in quality checks, and making it easy for analysts, data scientists, and AI systems to trust the data they consume.
 
