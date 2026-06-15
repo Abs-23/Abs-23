@@ -8,7 +8,7 @@
 
 ## 🔎 About Me
 
-I am a Data Engineer and Analytics Engineer with a Master's in Data Science, focused on building reliable data systems that support financial services operations and business decision making. I have professional experience at Accenture as a Salesforce Administrator and Data Engineer in financial services, and I currently work as a Data Analyst in wealth management at Asta CRS, where I work daily across Tamarac, Addepar, Orion, and Salesforce Financial Services Cloud.
+I am a Data Engineer and Analytics Engineer with a Master's in Data Science, focused on building reliable data systems that support financial services operations and business decision making.
 
 My work centers on building pipelines that operations and analytics teams can trust, catching data quality issues before they reach end users, and making sure the right information gets to the right people without manual intervention. I build across the full analytics stack, from raw ingestion and transformation all the way through to reporting layers and dashboards that answer real business questions for finance teams, operations teams, and leadership.
 
