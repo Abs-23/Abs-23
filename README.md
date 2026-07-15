@@ -51,5 +51,4 @@ A learning project simulating how a business might bring together customer data 
 
 ## 🔗 Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-siriki/)
 - 📧 abhishek.siriki23@gmail.com
